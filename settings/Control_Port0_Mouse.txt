@@ -186,6 +186,7 @@ HighSeasTraderAGA
 Hillsfar
 Hilt
 Hilt2
+HiredGuns
 Historyline
 HolidayLemmings1993
 HolidayLemmings1994
